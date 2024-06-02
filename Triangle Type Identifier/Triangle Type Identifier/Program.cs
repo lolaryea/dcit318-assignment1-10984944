@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Laryea Leslie Otoo 10984944
 namespace TriangleType
 {
     class Program
